@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuntal Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and computer vision developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuntalingithub&label=Profile%20views&color=0e75b6&style=flat" alt="kuntalingithub" /> </p>
 
